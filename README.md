@@ -1,3 +1,8 @@
+Website is live at:
+https://neewsdailyy.netlify.app/
+
+but as NEWSAPI company only allow to run its api on local computer news will not be fetched in this  but if you use localhost then it will work
+
 How this Website Looks:
 ![Example Image](./b.png)
 ![Example Image](./c.png)
