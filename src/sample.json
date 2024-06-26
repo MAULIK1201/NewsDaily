@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "Warum der ÖPNV mit den großen Tech-Firmen zusammenarbeiten sollte",
+            "description": "Ohne die Hilfe von Apple und Google wird der ÖPNV die Digitalisierung nicht stemmen können. Städte wie Paris machen es vor.",
+            "url": "https://www.businessinsider.de/gruenderszene/automotive-mobility/warum-der-oepnv-mit-den-grossen-tech-firmen-zusammenarbeiten-sollte/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2024/05/GettyImages-1979575804.jpg?ver=1716985782",
+            "publishedAt": "2024-06-10T04:00:00+00:00",
+            "content": "Ohne die Hilfe von Apple und Google wird der ÖPNV die Digitalisierung nicht stemmen können. Städte wie Paris machen es vor.Das Deutschlandticket hat gezeigt, dass man den öffentlichen Nahverkehr vor … [+4061 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jon Brodkin",
+            "title": "Google avoids jury trial by sending $2.3 million check to US government",
+            "description": "Google gets a bench trial after sending unexpected check to Justice Department.",
+            "url": "https://arstechnica.com/tech-policy/2024/06/google-avoids-jury-trial-by-sending-2-3-million-check-to-us-government/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-google-sign-760x380.jpg",
+            "publishedAt": "2024-06-07T21:05:49+00:00",
+            "content": "124\r\nGoogle has achieved its goal of avoiding a jury trial in one antitrust case after sending a $2.3 million check to the US Department of Justice. Google will face a bench trial, a trial conducted … [+5196 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "Google Deepmind debuts huge AlphaFold update and free proteomics-as-a-service web app | TechCrunch",
+            "description": "Google Deepmind has taken the wraps off a new version AlphaFold, their transformative machine learning model that predicts the shape and behavior of",
+            "url": "https://techcrunch.com/2024/05/08/google-deepmind-debuts-huge-alphafold-update-and-free-proteomics-as-a-service-web-app/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/alphafold-3-deepmind.jpg?resize=1200,675",
+            "publishedAt": "2024-05-07T22:10:14Z",
+            "content": "Google Deepmind has taken the wraps off a new version AlphaFold, their transformative machine learning model that predicts the shape and behavior of proteins. AlphaFold 3 is not only more accurate, b… [+7069 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Karissa Bell",
+            "title": "Amazon challenges Google with smaller, cheaper Echo Show",
+            "description": "Amazon just ratcheted up the pressure on Google.",
+            "url": "https://mashable.com/article/amazon-echo-show-5/",
+            "urlToImage": "https://img.huffingtonpost.com/asset/6614baba2300001a00bc389b.png?cache=gfjFjEVY2I&ops=1200_630",
+            "publishedAt": "2019-05-29T13:00:00Z",
+            "content": "Amazon just ratcheted up the pressure on Google in a major way.\r\nThe company just unveiled its new Echo Show 5, a smaller and cheaper version of its Echo Show speaker. The $89.99 device is available … [+2026 chars]"
+        }
+    ]
+}
